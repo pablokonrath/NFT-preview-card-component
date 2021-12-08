@@ -29,8 +29,12 @@ h1:hover {
 }
 
 .card__img {
+<<<<<<< HEAD
   background: url("/primeiro-projeto/assets/images/image-equilibrium.jpg")
     no-repeat center;
+=======
+  background: url("/primeiro-projeto/assets/images/image-equilibrium.jpg") no-repeat center;
+>>>>>>> 06d7ddf33de41361323e27fadbdfc01f9397b53c
   background-size: cover;
   width: 300px;
   height: 300px;
@@ -60,7 +64,11 @@ h1:hover {
   display: flex;
 }
 .valor::before {
+<<<<<<< HEAD
   content: url("/primeiro-projeto/assets/images/icon-ethereum.svg");
+=======
+  content: url(/primeiro-projeto/assets/images/icon-ethereum.svg);
+>>>>>>> 06d7ddf33de41361323e27fadbdfc01f9397b53c
   display: block;
   padding-right: 5px;
 }
@@ -69,7 +77,11 @@ h1:hover {
   color: hsl(215, 51%, 70%);
 }
 .tempo::before {
+<<<<<<< HEAD
   content: url("/primeiro-projeto/assets/images/icon-clock.svg");
+=======
+  content: url(/primeiro-projeto/assets/images/icon-clock.svg);
+>>>>>>> 06d7ddf33de41361323e27fadbdfc01f9397b53c
   display: block;
   padding-right: 5px;
   align-self: center;
