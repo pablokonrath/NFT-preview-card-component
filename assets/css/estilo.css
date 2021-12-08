@@ -29,7 +29,7 @@ h1:hover {
 }
 
 .card__img {
-  background: url("./assets/images/image-equilibrium.jpg") no-repeat center;
+  background: url("assets/images/image-equilibrium.jpg") no-repeat center;
   background-size: cover;
   width: 300px;
   height: 300px;
@@ -59,7 +59,7 @@ h1:hover {
   display: flex;
 }
 .valor::before {
-  content: url(./assets/images/icon-ethereum.svg);
+  content: url(assets/images/icon-ethereum.svg);
   display: block;
   padding-right: 5px;
 }
@@ -68,7 +68,7 @@ h1:hover {
   color: hsl(215, 51%, 70%);
 }
 .tempo::before {
-  content: url(./assets/images/icon-clock.svg);
+  content: url(assets/images/icon-clock.svg);
   display: block;
   padding-right: 5px;
   align-self: center;
