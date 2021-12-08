@@ -33,7 +33,7 @@ h1:hover {
   background-size: cover;
   width: 300px;
   height: 300px;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 .card__img-hover {
   background-color: cyan;
@@ -44,11 +44,7 @@ h1:hover {
   justify-content: center;
   align-items: center;
 }
-.card__img-hover img {
-  height: 50px;
-  width: 50px;
-  color: #fff;
-}
+
 .card__img-hover:hover {
   cursor: pointer;
   opacity: 0.5;
